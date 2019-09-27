@@ -1,5 +1,3 @@
-package Generics;
-
 public abstract class Player {
     private String name;
 
